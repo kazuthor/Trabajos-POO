@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Gestion
+comment1.params=nombre\ apellido\ edad\ codigo
+comment1.target=void\ agregarEstudiante(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ listarEstudiantes()
+comment3.params=codigo
+comment3.target=void\ buscarEstudiantePorCodigo(java.lang.String)
+numComments=4
